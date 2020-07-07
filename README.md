@@ -29,9 +29,9 @@ In this project you'll take take an almost completed e-commerce store and refact
 Follow these steps for completing your project.
 
 - [done] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [done] Add your team lead as a reviewer on the pull-request
+- [done] Your team lead will count the project as complete by merging the branch back into master.
+- [done] Do your magic!
 
 # Project - Shopping Cart
 
